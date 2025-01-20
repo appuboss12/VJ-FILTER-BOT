@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>〽️ Uploaded by @Movie_Hobbies</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
